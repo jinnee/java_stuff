@@ -34,7 +34,7 @@ public class PseudoPrimes {
     public static void main(String[] args) {
         PseudoPrimes ip = new PseudoPrimes();
 //341,561
-        System.out.println(ip.isPseudoPrime(341));
+        System.out.println(ip.isPseudoPrime(900233));
 
 //        for (int i = 3; i < 1000; i +=2) {
 //            if (ip.isPrime(i)) {
